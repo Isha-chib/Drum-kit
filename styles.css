@@ -1,0 +1,146 @@
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.wdrum {
+  text-align: center;
+    margin: 20px;
+    background-color: #EEEEEE;
+    padding :10px;
+    font-size:40px;
+    border-radius: 15px;
+    box-shadow: 0 6px #999;
+    cursor: pointer;
+    font-family: 'Indie Flower', cursive;
+    user-select: none;
+    width: 90px;
+    height: 100px;
+    display: inline-block;
+    background-image: url('tom1.png');
+
+}
+
+.adrum {
+  text-align: center;
+    margin: 20px;
+    background-color: #EEEEEE;
+    padding :10px;
+    font-size:40px;
+    border-radius: 15px;
+    box-shadow: 0 6px #999;
+    cursor: pointer;
+    font-family: 'Indie Flower', cursive;
+    user-select: none;
+    width: 90px;
+    height: 100px;
+    display: inline-block;
+    background-image: url('tom2.png');
+
+}
+.sdrum {
+  text-align: center;
+    margin: 20px;
+    background-color: #EEEEEE;
+    padding :10px;
+    font-size:40px;
+    border-radius: 15px;
+    box-shadow: 0 6px #999;
+    cursor: pointer;
+    font-family: 'Indie Flower', cursive;
+    user-select: none;
+    width: 90px;
+    height: 100px;
+    display: inline-block;
+    background-image: url('tom3.png');
+
+}
+.ddrum {
+  text-align: center;
+    margin: 20px;
+    background-color: #EEEEEE;
+    padding :10px;
+    font-size:40px;
+    border-radius: 15px;
+    box-shadow: 0 6px #999;
+    cursor: pointer;
+    font-family: 'Indie Flower', cursive;
+    user-select: none;
+    width: 90px;
+    height: 100px;
+    display: inline-block;
+    background-image: url('tom4.png');
+
+}
+.jdrum {
+  text-align: center;
+    margin: 20px;
+    background-color: #EEEEEE;
+    padding :10px;
+    font-size:40px;
+    border-radius: 15px;
+    box-shadow: 0 6px #999;
+    cursor: pointer;
+    font-family: 'Indie Flower', cursive;
+    user-select: none;
+    width: 90px;
+    height: 100px;
+    display: inline-block;
+    background-image: url('crash.png');
+
+}
+.kdrum {
+  text-align: center;
+    margin: 20px;
+    background-color: #EEEEEE;
+    padding :10px;
+    font-size:40px;
+    border-radius: 15px;
+    box-shadow: 0 6px #999;
+    cursor: pointer;
+    font-family: 'Indie Flower', cursive;
+    user-select: none;
+    width: 90px;
+    height: 100px;
+    display: inline-block;
+    background-image: url('kick.png');
+
+}
+.ldrum {
+  text-align: center;
+    margin: 20px;
+    background-color: #EEEEEE;
+    padding :10px;
+    font-size:40px;
+    border-radius: 15px;
+    box-shadow: 0 6px #999;
+    cursor: pointer;
+    font-family: 'Indie Flower', cursive;
+    user-select: none;
+    width: 90px;
+    height: 100px;
+    display: inline-block;
+    background-image: url('snare.png');
+
+}
